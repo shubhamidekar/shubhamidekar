@@ -1,6 +1,8 @@
 # 🐺 Shubham Idekar
 
-**`Data Engineer | Business Analyst | Data Science Enthusiast`** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-idekar-8231b0208/)
+**`Data Engineer | Business Analyst | Data Science Enthusiast`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-idekar-8231b0208/)
 
 ☕️ Fueled by curiosity and caffeine, I engineer data to craft compelling narratives and solve complex problems. Master's student with a knack for automating workflows, building scalable systems, adept at wrangling and analyzing data, with a keen eye for design. Open to new challenges!
 
