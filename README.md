@@ -1,4 +1,13 @@
-### Hi there 👋
+# 🐺 Shubham Idekar
+
+**`Data Engineer | Business Analyst | Data Science Enthusiast`**
+
+☕️ Fueled by curiosity and caffeine, I engineer data to craft compelling narratives and solve complex problems. Master's student with a knack for automating workflows, building scalable systems, adept at wrangling and analyzing data, with a keen eye for design. Open to new challenges!
+
+Currently working on becoming a Data Engineer | Data Scientist | Business Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-idekar-8231b0208/)
+# 💻 Tech Stack:
 
 <!--
 **shubhamidekar/shubhamidekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
