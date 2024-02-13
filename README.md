@@ -6,7 +6,7 @@
 
 Currently working on becoming a Data Engineer | Data Scientist | Business Analyst
 
-👻 Fun Facts - I can solve rubik's cube in under a minute, naturally good at all sports, 
+👻 Fun Facts - I can solve rubik's cube in under a minute, naturally good at all sports,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-idekar-8231b0208/)
 
 # 💻 Tech Stack:
